@@ -6,8 +6,9 @@
 //  Copyright © 2016年 Triangle. All rights reserved.
 //
 
+#import "STEAuthorKit.h"
+
 #import "FFAuthorCell.h"
-#import "CategoryKitPublic.h"
 #import "YYWebImage.h"
 #import "FFAuthorListReformerKeys.h"
 
