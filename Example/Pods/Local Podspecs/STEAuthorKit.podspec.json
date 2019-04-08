@@ -1,0 +1,30 @@
+{
+  "name": "STEAuthorKit",
+  "version": "1",
+  "summary": "A short description of STEAuthorKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/KivinSun/STEAuthorKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KivinSun": "15063244755@163.com"
+  },
+  "source": {
+    "git": "https://github.com/KivinSun/STEAuthorKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "STEAuthorKit/Classes/**/*",
+  "dependencies": {
+    "STECategoryKit": [
+
+    ],
+    "CTMediator": [
+
+    ]
+  }
+}

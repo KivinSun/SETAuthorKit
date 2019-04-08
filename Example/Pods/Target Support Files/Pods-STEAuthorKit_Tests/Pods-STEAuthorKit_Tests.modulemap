@@ -1,0 +1,6 @@
+framework module Pods_STEAuthorKit_Tests {
+  umbrella header "Pods-STEAuthorKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
