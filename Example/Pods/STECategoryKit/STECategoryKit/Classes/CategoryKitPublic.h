@@ -18,4 +18,10 @@
 #import <Masonry/Masonry.h>
 #import <YYWebImage/YYWebImage.h>
 
+#import "FFCellProtocol.h"
+#import "FFAuthorListReformerKeys.h"
+#import "FFReformProtocol.h"
+#import "APIRequest.h"
+#import "APIRequestProtocol.h"
+
 #endif /* CategoryKitPublic_h */

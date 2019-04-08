@@ -7,7 +7,8 @@
 //
 
 #import "FFAuthorController.h"
-#import "CategoryKitPublic.h"
+#import <STECategoryKit/CategoryKitPublic.h>
+
 #import "AuthorAPIRequest.h"
 #import "FFAuthorListReformer.h"
 // view
