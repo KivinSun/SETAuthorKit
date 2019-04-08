@@ -50,7 +50,7 @@
 		11767E6DDC7EB6A1853AB5210A38CF7C /* NSObject+RACPropertySubscribing.h in Headers */ = {isa = PBXBuildFile; fileRef = 261A95D1F95A522F948229C67ECA6BED /* NSObject+RACPropertySubscribing.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		11FC01FD489120C46343BCA1B0CBD1D4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 61EABC32DA558A8797736CFA200249A6 /* UIKit.framework */; };
 		1237040D8DA4CE4618F36CF369F6D2EF /* RACTestScheduler.h in Headers */ = {isa = PBXBuildFile; fileRef = D384D850FD3EAB8A504C1E5955C60A49 /* RACTestScheduler.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		126843BEB07C6116583DE14B38F8EE17 /* Traget_Author.m in Sources */ = {isa = PBXBuildFile; fileRef = 7709927D4E8134643D2E8FB813048313 /* Traget_Author.m */; };
+		126843BEB07C6116583DE14B38F8EE17 /* Target_Author.m in Sources */ = {isa = PBXBuildFile; fileRef = 7709927D4E8134643D2E8FB813048313 /* Target_Author.m */; };
 		146528C34DC03343316004951CF7492F /* NSObject+RACDescription.h in Headers */ = {isa = PBXBuildFile; fileRef = 43F7551D87F868C20C7C6F617943C2FF /* NSObject+RACDescription.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		155C09DEA7ED429ECEBD0CF5525F047E /* UIImageView+YYWebImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 822111E1ADD7F3C23CAB19407C566912 /* UIImageView+YYWebImage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		165DFC67F00A335350D7BCF772689270 /* NSString+RACSequenceAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 547B2B80F218F6A2FD2576A95612DC39 /* NSString+RACSequenceAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -273,7 +273,7 @@
 		907AAA15011F5B75F0D61AB380232566 /* NSInvocation+RACTypeParsing.h in Headers */ = {isa = PBXBuildFile; fileRef = ACD96C501BCE438BC9FDAFE2BB0208E9 /* NSInvocation+RACTypeParsing.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9127EBAEEE68E4432089ED9432EFEBE3 /* YYSpriteSheetImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 7DAA4F7B88AA20267C435C2726AF10F2 /* YYSpriteSheetImage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		913700FE27A9B004100F769C76BA3D02 /* UIImage+YYWebImage.h in Headers */ = {isa = PBXBuildFile; fileRef = D035204850B4395A59C9F2DED8F07B7A /* UIImage+YYWebImage.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		919ED74ECE3A39101D81633503AC22CD /* Traget_Author.h in Headers */ = {isa = PBXBuildFile; fileRef = 0742909AA93C3EC225BAF2779DCF17A8 /* Traget_Author.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		919ED74ECE3A39101D81633503AC22CD /* Target_Author.h in Headers */ = {isa = PBXBuildFile; fileRef = 0742909AA93C3EC225BAF2779DCF17A8 /* Target_Author.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		91A92B0404A53912CEBAACBD3D467E26 /* RACObjCRuntime.m in Sources */ = {isa = PBXBuildFile; fileRef = B2E840F173349C0BA0EE1661C1113587 /* RACObjCRuntime.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		91DED8DCF208004DA4CB784695A6E8DD /* UITableViewCell+RACSignalSupport.h in Headers */ = {isa = PBXBuildFile; fileRef = 1E4B7FFD70BDFC09A8A72B7D0D07A907 /* UITableViewCell+RACSignalSupport.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		928D0E04335B82340005F85E6B6FF1E8 /* UIProgressView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = CE6EC35D65C675654BAD30B9ED7D2491 /* UIProgressView+AFNetworking.m */; };
@@ -715,7 +715,7 @@
 		05AD7CFEE4CDBFC65C4E3BC4860E359A /* Masonry-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Masonry-dummy.m"; sourceTree = "<group>"; };
 		05BFD3ADF715DF95B0651915A8136DD9 /* YYCache.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YYCache.xcconfig; sourceTree = "<group>"; };
 		063431C5A96A970A54162551CB438B28 /* YYCache-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YYCache-umbrella.h"; sourceTree = "<group>"; };
-		0742909AA93C3EC225BAF2779DCF17A8 /* Traget_Author.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Traget_Author.h; sourceTree = "<group>"; };
+		0742909AA93C3EC225BAF2779DCF17A8 /* Target_Author.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Target_Author.h; sourceTree = "<group>"; };
 		0826EFD26A5B4AE4BC25A7073B793AAF /* DBManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DBManager.m; path = STECategoryKit/Classes/tools/DBManager.m; sourceTree = "<group>"; };
 		084668D2A4725BEDBC045A05C3E70C7A /* RACKVOTrampoline.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACKVOTrampoline.h; path = ReactiveCocoa/RACKVOTrampoline.h; sourceTree = "<group>"; };
 		08958E168654D086F803C390517BD03D /* FFAuthorCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FFAuthorCell.h; sourceTree = "<group>"; };
@@ -941,7 +941,7 @@
 		750479DE2AF085E8125AEB3787933C26 /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		75F18DBE6706A7EDB50493266AA1B98A /* NSFileHandle+RACSupport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSFileHandle+RACSupport.m"; path = "ReactiveCocoa/NSFileHandle+RACSupport.m"; sourceTree = "<group>"; };
 		7650E3A811D9A6F68A617B382B63048F /* RACScopedDisposable.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RACScopedDisposable.m; path = ReactiveCocoa/RACScopedDisposable.m; sourceTree = "<group>"; };
-		7709927D4E8134643D2E8FB813048313 /* Traget_Author.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Traget_Author.m; sourceTree = "<group>"; };
+		7709927D4E8134643D2E8FB813048313 /* Target_Author.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Target_Author.m; sourceTree = "<group>"; };
 		7845F45C237803D9D01666C52A02B001 /* RACKVOChannel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACKVOChannel.h; path = ReactiveCocoa/RACKVOChannel.h; sourceTree = "<group>"; };
 		78C51A2F949E412DF259D7A81D368895 /* YYKVStorage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = YYKVStorage.m; path = YYCache/YYKVStorage.m; sourceTree = "<group>"; };
 		7B2A918F8F70BB778BB51C7B731B1DA8 /* STECategoryKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = STECategoryKit.xcconfig; sourceTree = "<group>"; };
@@ -1770,8 +1770,8 @@
 			children = (
 				CB7F0C8B31DA9220228856FB49B56D30 /* CTMediator+Author.h */,
 				DA00929592BB2FDD97F309007E48A5E8 /* CTMediator+Author.m */,
-				0742909AA93C3EC225BAF2779DCF17A8 /* Traget_Author.h */,
-				7709927D4E8134643D2E8FB813048313 /* Traget_Author.m */,
+				0742909AA93C3EC225BAF2779DCF17A8 /* Target_Author.h */,
+				7709927D4E8134643D2E8FB813048313 /* Target_Author.m */,
 			);
 			name = Mediator;
 			path = "STEAuthorKit/Classes/Author(作者)/Mediator";
@@ -2544,7 +2544,7 @@
 				C965F753F94451B27E2A4C4C5B1D4E0B /* FFAuthorDetailController.h in Headers */,
 				3B756E30820D05411CBF96A975F6D3DF /* FFAuthorListReformer.h in Headers */,
 				DC0A2E5498BF5819085BBA1FEA592883 /* STEAuthorKit-umbrella.h in Headers */,
-				919ED74ECE3A39101D81633503AC22CD /* Traget_Author.h in Headers */,
+				919ED74ECE3A39101D81633503AC22CD /* Target_Author.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2971,7 +2971,7 @@
 				395E680555FCCDAFB7BA821845DAC515 /* FFAuthorDetailController.m in Sources */,
 				39CDA7355D650CC844509B3B0A0C134F /* FFAuthorListReformer.m in Sources */,
 				A6B1164B8DC35D8DF1FF64FFE9369044 /* STEAuthorKit-dummy.m in Sources */,
-				126843BEB07C6116583DE14B38F8EE17 /* Traget_Author.m in Sources */,
+				126843BEB07C6116583DE14B38F8EE17 /* Target_Author.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

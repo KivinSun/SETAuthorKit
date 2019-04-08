@@ -6,7 +6,7 @@
 //  Copyright © 2019年 KivinSun. All rights reserved.
 //
 
-#import "Traget_Author.h"
+#import "Target_Author.h"
 #import "FFAuthorDetailController.h"
 #import"FFAuthorListReformer.h"
 #import"AuthorAPIRequest.h"

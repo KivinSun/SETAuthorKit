@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'STEAuthorKit'
-  s.version          = '3'
+  s.version          = '4'
   s.summary          = 'A short description of STEAuthorKit.'
 
 # This description is used to generate tags and improve search results.

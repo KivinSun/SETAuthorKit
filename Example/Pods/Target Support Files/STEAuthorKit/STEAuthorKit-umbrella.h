@@ -16,7 +16,7 @@
 #import "FFAuthorController.h"
 #import "FFAuthorListReformer.h"
 #import "CTMediator+Author.h"
-#import "Traget_Author.h"
+#import "Target_Author.h"
 
 FOUNDATION_EXPORT double STEAuthorKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char STEAuthorKitVersionString[];
